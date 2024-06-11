@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/jitendramakwana143",
   resume:
-    "#",
+    "https://drive.google.com/file/d/1n5yDMX9l30qxVvRgk5om10hXi179uY-o/view?usp=drivesdk",
   linkedin: "https://linkedin.com/in/jitendra-makwana-447b31213",
   twitter: "https://twitter.com/jitendrama23861",
   // insta: "https://www.instagram.com/rishav_chanda/",
@@ -128,7 +128,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
       },
       {
         name: "GitHub",
@@ -153,7 +153,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png",
       },
       // {
       //   name: "Adobe XD",
@@ -240,20 +240,20 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
+    title: "Google Authontication",
+    date: "Apr 2024",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+      "Developed google Authontication in which the user will login with the help of google accout in which i use a third party modules.",
+        image:
+      "https://github.com/jitendramakwana143/Google-Authontication/blob/master/public/Screenshot.png?raw=true",
+    tags: ["React Js"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    github: "https://github.com/Jitendramakwana404/GoogleAuthontiction",
+    webapp: "#",
     member: [
       {
         name: "Jitedra Makwana",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+        img: "https://avatars.githubusercontent.com/u/91615506?v=4",
         linkedin: "https://linkedin.com/in/jitendra-makwana-447b31213",
         github: "https://github.com/jitendramakwana143/",
       },
