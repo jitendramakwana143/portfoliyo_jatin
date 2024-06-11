@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfoliyo_jatin/static/css/main.bf538fe7.css",
+    "main.js": "/portfoliyo_jatin/static/js/main.b5ef2d8f.js",
+    "static/media/hero.jpg": "/portfoliyo_jatin/static/media/hero.0903be9e3dea9ffe4281.jpg",
+    "index.html": "/portfoliyo_jatin/index.html",
+    "main.bf538fe7.css.map": "/portfoliyo_jatin/static/css/main.bf538fe7.css.map",
+    "main.b5ef2d8f.js.map": "/portfoliyo_jatin/static/js/main.b5ef2d8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.b5ef2d8f.js"
+  ]
+}
