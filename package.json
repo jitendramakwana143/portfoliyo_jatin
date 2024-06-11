@@ -1,13 +1,13 @@
 {
-  "name": "Jitendra-makwana-portfolio/my-port",
+  "name": "Jitendra-makwana-portfolio/myportfoliyo",
   "version": "0.1.0",
-  "homepage": "https://jitendramakwana404.github.io/my_port",
+  "homepage": "https://github.com/Jitendramakwana404/myportfoliyo",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
-    "@mui/icons-material": "^5.11.16",
+    "@mui/icons-material": "^5.15.19",
     "@mui/lab": "^5.0.0-alpha.130",
     "@mui/material": "^5.13.1",
     "@testing-library/jest-dom": "^5.16.4",
