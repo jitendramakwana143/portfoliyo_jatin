@@ -245,7 +245,7 @@ export const projects = [
     description:
       "Developed google Authontication in which the user will login with the help of google accout in which i use a third party modules.",
         image:
-      "https://github.com/jitendramakwana143/Google-Authontication/blob/master/public/Screenshot.png?raw=true",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhts8IRNt2lxOZ9dY9XPz7jMaACPUzRvigd7tqCinb8wiH2wSR3E4FZsKfkjtwLLp1cXJJWmnA3GekpLpUXNu5aCTz89_QtbKtYuE96g9_-KBO8FRVkE-KTSqIhiLI7jhUUhc0t8T9iX_Xf5FskuLpgpljGnDU-9NLfNsmMTtiNzkTQuMP7H2ETPUpYbINx/s728-rw-e365/google.png",
     tags: ["React Js"],
     category: "web app",
     github: "https://github.com/Jitendramakwana404/GoogleAuthontiction",
