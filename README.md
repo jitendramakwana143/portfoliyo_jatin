@@ -1,7 +1,7 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website](https://rishavchanda.netlify.app)
+### Weblink: [Live Website]([https://rishavchanda.netlify.app](https://jitendramakwana143.github.io/portfoliyo_jatin/))
 ## Some Images:
 <img width="450px;" src="https://github.com/jitendramakwana143/portfoliyo_jatin/blob/main/public/s1.png?raw=true"/>
 
